@@ -1,0 +1,20 @@
+---
+  - src: git@github.com:matemaaan/clickhouse.git
+    scm: git
+    version: "1.0.0"
+    name: clickhouse 
+
+  - src: git@github.com:matemaaan/vector.git
+    scm: git
+    version: "1.0.0"
+    name: vector
+
+  - src: git@github.com:matemaaan/nginx.git
+    scm: git
+    version: "1.0.0"
+    name: nginx
+
+  - src: git@github.com:matemaaan/lighthouse.git
+    scm: git
+    version: "1.0.0"
+    name: lighthouse
